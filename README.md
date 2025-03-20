@@ -11,7 +11,7 @@
 
 ## Informações Importantes
 
-- **Certificado:** O curso oferecerá certificado de participação.
+- **Certificado:** O curso oferecerá certificado de conclusão.
 - **Aulas Gravadas:** Todas as aulas serão gravadas e disponibilizadas posteriormente.
 - **Grupo do Telegram:** Junte-se ao grupo para dúvidas e discussões: [t.me/cursoML2025](https://t.me/cursoML2025)
 
