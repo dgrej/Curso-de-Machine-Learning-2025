@@ -1,32 +1,38 @@
-# Curso-de-Machine-Learning-2025
 
-Horário: 14:20 às 16:00
+# Curso de Machine Learning 2025
 
-Local: auditório Fernão Stella de Rodrigues Germano do ICMC, bloco 6.
+<p align="center"> <img src="imgs/cursoml.png" alt="Curso de Machine Learning 2025"> </p>
 
-Dias: toda sexta feira a partir do dia 21/03/25 até 02/05/25
+**Horário:** 14:20 às 16:00  
+**Local:** Auditório Fernão Stella de Rodrigues Germano do ICMC, Bloco 6  
+**Datas:** Todas as sextas-feiras, de 21/03/2025 a 02/05/2025  
+**Transmissão ao vivo:** [DataICMC no YouTube](https://www.youtube.com/@DataICMC)
 
-Transmissão ao vivo: https://www.youtube.com/@DataICMC
 
-Informações importantes:
-* O curso terá certificado
-* As aulas ficarão gravadas
-* Link para o grupo do telegram: https://t.me/+PhvyYDSkzNgwNDc5
+## Informações Importantes
 
-Presença:
-* Presença da aula do dia 21 ficará disponível até as 13:00 do dia 28/03/05
+- **Certificado:** O curso oferecerá certificado de participação.
+- **Aulas Gravadas:** Todas as aulas serão gravadas e disponibilizadas posteriormente.
+- **Grupo do Telegram:** Junte-se ao grupo para dúvidas e discussões: [t.me/cursoML2025](https://t.me/cursoML2025)
 
-Conteúdo que serão abordados:
-* Introdução a área de machine learning
-* Classificadores lineares
-* Classificadores não lineares
-* Algoritmos de recomendação
-* Redes neuras convencionais
-* Redes neurais convulucionais
+## Presença
 
-Conteúdo da primeira aula:
-* Introdução a área de machine learning
-* Classificador linear
-* Algoritmo perceptron
+A presença será contabilizada durante uma semana, a partir do início da aula.
 
-  
+## Conteúdo do Curso
+
+### Tópicos Abordados
+
+- Introdução à área de Machine Learning
+- Classificadores lineares
+- Classificadores não lineares
+- Algoritmos de recomendação
+- Redes neurais convencionais
+- Redes neurais convolucionais
+
+### Conteúdo da Primeira Aula
+
+- Introdução à área de Machine Learning
+- Classificador linear
+- Algoritmo Perceptron
+
