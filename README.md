@@ -1,7 +1,7 @@
 
 # Curso de Machine Learning 2025
 
-<p align="center"> <img src="imgs/cursoml.jpg" alt="Curso de Machine Learning 2025"> </p>
+<p align="center"> <img width="250px" src="imgs/cursoml.jpg" alt="Curso de Machine Learning 2025"> </p>
 
 **Horário:** 14:20 às 16:00  
 **Local:** Auditório Fernão Stella de Rodrigues Germano do ICMC, Bloco 6  
