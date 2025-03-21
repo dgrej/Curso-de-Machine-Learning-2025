@@ -19,6 +19,8 @@
 
 A presença será registrada e estará disponível por uma semana a partir do início de cada aula. Você poderá acessar o link para confirmar sua presença diretamente na **bio** do nosso Instagram: [@data.icmc](https://instagram.com/data.icmc)
 
+Presença Aula 1: https://forms.gle/xSfYPeJbm1V7shKbA
+
 ## Conteúdo do Curso
 
 ### Tópicos Abordados
